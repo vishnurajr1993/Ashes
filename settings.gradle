@@ -1,0 +1,2 @@
+rootProject.name='Ashes'
+include ':app'

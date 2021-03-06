@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ashes</string>
+    <string name="signup"> <u>SIGN UP</u></string>
+    <string name="signin"> <u>SIGN IN</u></string>
+    <string name="about">The ashes indoor sports hub that offers sports facilities at par with international
+        standards has taken the sports scenario in kerala to an all new level.\nThe ideal platform for
+        sports persons to hone their skills, the Ashes Indoor sports hub is housed at the city of Thiruvananthapuram.
+        It was conceived to inspire both sports persons and the general public to ensure that sports and fitness become a
+        part of their daily lives.</string>
+</resources>
